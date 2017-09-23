@@ -5,12 +5,12 @@
  *
  * bar.js
  * simple, elegant bar chart library
- * {date} - version 1.0
- * {url}
+ * 23.11.2018 - version 1.0
+ * https://github.com/alperentalaslioglu/bar-js
  *
- * Copyright 2017 {your name}
+ * Copyright 2017 Alperen <alperen.talaslioglu@gmail.com>
  * Relased under the MIT License
- * {license url}
+ * https://github.com/alperentalaslioglu/bar-js/blob/master/LICENCE.md
  *
  */
 
