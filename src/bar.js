@@ -5,7 +5,7 @@
  *
  * bar.js
  * simple, elegant bar chart library
- * 23.11.2018 - version 1.0
+ * 26.10.2017 - version 1.0
  * https://github.com/alperentalaslioglu/bar-js
  *
  * Copyright 2017 Alperen <alperen.talaslioglu@gmail.com>
