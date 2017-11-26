@@ -7,7 +7,7 @@ Lightweight, configurable and simple bar chart library in JavaScript
 
 
 ## Demo
-[http://alperen.me/demo/barjs/](http://alperen.me/demo/barjs/)
+[bar.js demo](http://alperen.me/demo/barjs/)
 
 ## Description
 bar.js is a Canvas based simple JavaScript Bar Chart Library to provide a configurable, lightweight and dependency-free experience.
